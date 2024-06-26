@@ -1,0 +1,86 @@
+[09-Jan-2024 06:29:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 81
+[09-Jan-2024 06:29:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 81
+[09-Jan-2024 06:33:13 UTC] PHP Warning:  Undefined variable $allowedOrigins in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 12
+[09-Jan-2024 06:33:13 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php:12
+Stack trace:
+#0 /home/uvacdlqy/tv.uvaceylonagro.com/backend.php(12): in_array()
+#1 {main}
+  thrown in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 12
+[09-Jan-2024 06:33:41 UTC] PHP Warning:  Undefined variable $allowedOrigins in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 13
+[09-Jan-2024 06:33:41 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php:13
+Stack trace:
+#0 /home/uvacdlqy/tv.uvaceylonagro.com/backend.php(13): in_array()
+#1 {main}
+  thrown in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 13
+[09-Jan-2024 06:33:44 UTC] PHP Warning:  Undefined variable $allowedOrigins in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 13
+[09-Jan-2024 06:33:44 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php:13
+Stack trace:
+#0 /home/uvacdlqy/tv.uvaceylonagro.com/backend.php(13): in_array()
+#1 {main}
+  thrown in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 13
+[09-Jan-2024 06:34:04 UTC] PHP Warning:  Undefined variable $allowedOrigins in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 13
+[09-Jan-2024 06:34:04 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php:13
+Stack trace:
+#0 /home/uvacdlqy/tv.uvaceylonagro.com/backend.php(13): in_array()
+#1 {main}
+  thrown in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 13
+[09-Jan-2024 06:34:28 UTC] PHP Warning:  Undefined variable $allowedOrigins in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 12
+[09-Jan-2024 06:34:28 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php:12
+Stack trace:
+#0 /home/uvacdlqy/tv.uvaceylonagro.com/backend.php(12): in_array()
+#1 {main}
+  thrown in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 12
+[09-Jan-2024 06:34:34 UTC] PHP Warning:  Undefined variable $allowedOrigins in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 12
+[09-Jan-2024 06:34:34 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php:12
+Stack trace:
+#0 /home/uvacdlqy/tv.uvaceylonagro.com/backend.php(12): in_array()
+#1 {main}
+  thrown in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 12
+[09-Jan-2024 06:36:23 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 9
+[09-Jan-2024 06:36:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 81
+[09-Jan-2024 06:37:04 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 06:44:03 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[09-Jan-2024 06:52:59 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[09-Jan-2024 06:53:07 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[09-Jan-2024 06:53:11 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[09-Jan-2024 07:45:18 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[09-Jan-2024 07:50:22 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[09-Jan-2024 11:08:31 UTC] PHP Warning:  hex2bin(): Input string must be hexadecimal string in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[09-Jan-2024 14:34:20 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 14:34:32 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 14:35:54 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 14:36:18 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 14:36:32 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 14:36:40 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 14:41:52 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 14:43:26 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 14:43:40 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 14:43:57 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 14:46:00 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 14:46:19 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 15:28:15 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 15:45:31 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[09-Jan-2024 16:08:46 UTC] PHP Warning:  hex2bin(): Input string must be hexadecimal string in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[09-Jan-2024 16:09:25 UTC] PHP Warning:  hex2bin(): Input string must be hexadecimal string in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[16-Jan-2024 17:33:34 UTC] PHP Warning:  hex2bin(): Input string must be hexadecimal string in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[25-Jan-2024 17:32:16 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[25-Jan-2024 17:32:37 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[25-Jan-2024 17:33:22 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[17-Feb-2024 13:11:06 UTC] PHP Warning:  hex2bin(): Input string must be hexadecimal string in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[04-Mar-2024 07:45:43 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[04-Mar-2024 07:46:21 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[04-Mar-2024 08:00:18 UTC] PHP Warning:  hex2bin(): Input string must be hexadecimal string in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[04-Mar-2024 08:27:00 UTC] PHP Warning:  hex2bin(): Input string must be hexadecimal string in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[23-Mar-2024 05:38:58 UTC] PHP Warning:  hex2bin(): Input string must be hexadecimal string in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[01-Apr-2024 14:39:58 UTC] PHP Warning:  hex2bin(): Input string must be hexadecimal string in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[01-Apr-2024 14:40:08 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[25-May-2024 15:07:22 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[25-May-2024 18:48:51 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[25-Jun-2024 02:17:28 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[25-Jun-2024 02:17:56 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[25-Jun-2024 02:18:06 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[25-Jun-2024 02:18:40 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[25-Jun-2024 02:19:44 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[25-Jun-2024 06:52:37 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
+[25-Jun-2024 06:53:05 UTC] PHP Warning:  Undefined array key "HTTP_ORIGIN" in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 7
+[25-Jun-2024 06:53:36 UTC] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/uvacdlqy/tv.uvaceylonagro.com/backend.php on line 26
